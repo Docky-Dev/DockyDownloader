@@ -1,7 +1,3 @@
-Voici un **README** clair et propre pour ton projet **DockyDownloader**, en précisant bien qu’il est archivé et ne fonctionne plus 👇
-
----
-
 # 📥 DockyDownloader
 
 > **⚠️ Ce projet est archivé et n’est plus fonctionnel.**
